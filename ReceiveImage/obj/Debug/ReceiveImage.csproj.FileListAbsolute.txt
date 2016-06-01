@@ -1,0 +1,9 @@
+C:\Users\Vlad\Documents\Visual Studio 2012\Projects\SendImage\ReceiveImage\bin\Debug\ReceiveImage.exe.config
+C:\Users\Vlad\Documents\Visual Studio 2012\Projects\SendImage\ReceiveImage\bin\Debug\ReceiveImage.exe
+C:\Users\Vlad\Documents\Visual Studio 2012\Projects\SendImage\ReceiveImage\bin\Debug\ReceiveImage.pdb
+C:\Users\Vlad\Documents\Visual Studio 2012\Projects\SendImage\ReceiveImage\obj\Debug\ReceiveImage.csprojResolveAssemblyReference.cache
+C:\Users\Vlad\Documents\Visual Studio 2012\Projects\SendImage\ReceiveImage\obj\Debug\ReceiveImage.Form1.resources
+C:\Users\Vlad\Documents\Visual Studio 2012\Projects\SendImage\ReceiveImage\obj\Debug\ReceiveImage.Properties.Resources.resources
+C:\Users\Vlad\Documents\Visual Studio 2012\Projects\SendImage\ReceiveImage\obj\Debug\ReceiveImage.csproj.GenerateResource.Cache
+C:\Users\Vlad\Documents\Visual Studio 2012\Projects\SendImage\ReceiveImage\obj\Debug\ReceiveImage.exe
+C:\Users\Vlad\Documents\Visual Studio 2012\Projects\SendImage\ReceiveImage\obj\Debug\ReceiveImage.pdb

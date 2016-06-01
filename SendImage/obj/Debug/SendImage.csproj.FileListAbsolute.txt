@@ -1,0 +1,9 @@
+C:\Users\Vlad\Documents\Visual Studio 2012\Projects\SendImage\SendImage\bin\Debug\SendImage.exe.config
+C:\Users\Vlad\Documents\Visual Studio 2012\Projects\SendImage\SendImage\bin\Debug\SendImage.exe
+C:\Users\Vlad\Documents\Visual Studio 2012\Projects\SendImage\SendImage\bin\Debug\SendImage.pdb
+C:\Users\Vlad\Documents\Visual Studio 2012\Projects\SendImage\SendImage\obj\Debug\SendImage.csprojResolveAssemblyReference.cache
+C:\Users\Vlad\Documents\Visual Studio 2012\Projects\SendImage\SendImage\obj\Debug\SendImage.Form1.resources
+C:\Users\Vlad\Documents\Visual Studio 2012\Projects\SendImage\SendImage\obj\Debug\SendImage.Properties.Resources.resources
+C:\Users\Vlad\Documents\Visual Studio 2012\Projects\SendImage\SendImage\obj\Debug\SendImage.csproj.GenerateResource.Cache
+C:\Users\Vlad\Documents\Visual Studio 2012\Projects\SendImage\SendImage\obj\Debug\SendImage.exe
+C:\Users\Vlad\Documents\Visual Studio 2012\Projects\SendImage\SendImage\obj\Debug\SendImage.pdb

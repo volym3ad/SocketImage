@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendImage", "SendImage\SendImage.csproj", "{855E91BD-14C8-4C2F-9EEE-CBA43725CFD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReceiveImage", "ReceiveImage\ReceiveImage.csproj", "{02D8149F-2E82-4836-874C-FF3FE24EDA09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{855E91BD-14C8-4C2F-9EEE-CBA43725CFD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{855E91BD-14C8-4C2F-9EEE-CBA43725CFD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{855E91BD-14C8-4C2F-9EEE-CBA43725CFD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{855E91BD-14C8-4C2F-9EEE-CBA43725CFD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02D8149F-2E82-4836-874C-FF3FE24EDA09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02D8149F-2E82-4836-874C-FF3FE24EDA09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02D8149F-2E82-4836-874C-FF3FE24EDA09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02D8149F-2E82-4836-874C-FF3FE24EDA09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
